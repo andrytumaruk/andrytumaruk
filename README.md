@@ -1,6 +1,6 @@
 
 <h1 align="center">Halo 👋,saya adalah andry</h1>
-<p align="center">mahasiswa informatika🤖 ML & AI Engineering</p>
+<p align="center">mahasiswa informatika🤖 ML,AI Engineering,Web Developer</p>
 
 # 💫 About Me:
 - 🎓 **Statistics Student** at Universitas Widyatama 
